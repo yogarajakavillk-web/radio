@@ -1,0 +1,20 @@
+{"updated":"","count":0,"items":[]}
+```
+
+**11.** **"Commit changes"** click
+
+---
+
+## 📋 Step 4 — GitHub Pages Enable செய்யவும்
+
+**1.** Repository → **"Settings"** tab
+
+**2.** Left sidebar → **"Pages"**
+
+**3.** Source: **"Deploy from a branch"**
+
+**4.** Branch: **"main"** → **"/ (root)"** → **"Save"**
+
+**5.** 2 நிமிடம் காத்திருங்கள் — உங்கள் website:
+```
+https://உங்கள்-username.github.io/kingfm/
