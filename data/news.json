@@ -1,0 +1,26 @@
+{"updated":"","count":0,"items":[]}
+```
+
+**4.** **"Commit changes"**
+
+---
+
+### ▶️ Step 5 — முதல் தடவை Manual Run
+
+**1.** Repository top menu → **"Actions"** tab click
+
+**2.** Left sidebar → **"Fetch RSS Feeds"** click
+
+**3.** Right side → **"Run workflow"** button click
+
+**4.** மீண்டும் **"Run workflow"** (green button) click
+
+**5.** ⏳ 1-2 நிமிடம் காத்திருங்கள்
+
+**6.** ✅ Green tick வந்தால் — `data/news.json` ready!
+
+---
+
+### 🌐 Step 6 — Website பார்க்கவும்
+```
+https://உங்கள்-username.github.io/kingfm/
